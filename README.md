@@ -24,7 +24,7 @@ sudo apt install pip3
 pip3 install requests bs4 matplotlib
 ```
 
-## Use the following command to play
+## Use the following command to run the script
 ```
 python3 scraper.py
 ```
