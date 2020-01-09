@@ -1,5 +1,5 @@
 # github-stats
-Python script that prints a graph of the languages used by a Github user.
+Python script that prints a pie chart of the languages used by a Github user.
 Like this:
 
 ![Image of stats](https://github.com/RohanLodhi/github-stats/blob/master/Figure_1.png)
