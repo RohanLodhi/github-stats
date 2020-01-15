@@ -1,3 +1,5 @@
+*script only takes the main language in account to calculate languages.
+This is something I intend to fix in future*
 # github-stats
 Python script that prints a pie chart of the languages used by a Github user.
 Like this:
@@ -31,5 +33,4 @@ python3 scraper.py
 
 ## Then just follow the instructions appearing on the screen
  
-*script only takes the main language in account to calculate languages
-something I intend to fix in future*
+
