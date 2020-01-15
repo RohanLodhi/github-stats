@@ -30,3 +30,6 @@ python3 scraper.py
 ```
 
 ## Then just follow the instructions appearing on the screen
+ 
+*script only takes the main language in account to calculate languages
+something I intend to fix in future*
